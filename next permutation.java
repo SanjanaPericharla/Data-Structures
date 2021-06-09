@@ -31,5 +31,5 @@ class Solution {
         }
     }
 }
-time complxity - o(n)
-space complexity - o(1)
+//time complexity - o(n)
+//space complexity - o(1)
