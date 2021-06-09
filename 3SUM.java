@@ -6,8 +6,8 @@ for(int i=0 to n-1)
     for(k = j+1 to n-1)
     if(a[i]+a[j]+a[k] == 0)	// a[i] a[j] a[k] must be unique value so use a set and insert them into it.
     
- TIME COMPLEXITY - O(N^3LOGM) N^3 FOR ITERATING THREE LOOPS AND LOGM FOR INSERTING THE ELEMENTS INTO SET.
- SPACE COMPLEXITY - O(M).
+ //TIME COMPLEXITY - O(N^3LOGM) (N^3 FOR ITERATING THREE LOOPS AND LOGM FOR INSERTING THE ELEMENTS INTO SET.)
+ //SPACE COMPLEXITY - O(M).
  
  // 2ND APPROACH TAKING HASH AND SET 
  for(int i=0 to n-1)
