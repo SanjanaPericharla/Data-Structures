@@ -1,3 +1,5 @@
+
+// deleting a letter and making it palindrome.
 class Solution {
     public boolean validPalindrome(String s) {
         int left = 0;
